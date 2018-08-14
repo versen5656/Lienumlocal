@@ -1,8 +1,5 @@
 # Lienumlocal
 
-
-Note: Export functionality is currently in the experimental stage.
-
 General usage:
 
 version 0.9
