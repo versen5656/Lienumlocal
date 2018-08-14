@@ -1,5 +1,5 @@
-# LinEnum
-For more information visit www.rebootuser.com
+# Lienumlocal
+
 
 Note: Export functionality is currently in the experimental stage.
 
@@ -7,7 +7,7 @@ General usage:
 
 version 0.9
 
-* Example: ./LinEnum.sh -s -k keyword -r report -e /tmp/ -t 
+* Example: ./Lienumlocal.sh <options>
 
 OPTIONS:
 * -k	Enter keyword
